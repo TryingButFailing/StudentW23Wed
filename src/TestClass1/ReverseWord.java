@@ -3,7 +3,7 @@ package TestClass1;
 
 /**
  *
- * @author chris
+ * author: Chris
  */
 import java.util.Scanner;
 public class ReverseWord {
