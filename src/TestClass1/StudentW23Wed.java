@@ -11,6 +11,15 @@ package TestClass1;
 public class StudentW23Wed {
     private String studentId;
     private String studentName;
+    private String address;
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
 
     public StudentW23Wed(String studentId, String studentName) {
         this.studentId = studentId;
