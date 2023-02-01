@@ -6,6 +6,7 @@ package TestClass1;
  * author: Chris
  */
 //comment for fetch and merge
+// added comment for pull
 import java.util.Scanner;
 public class ReverseWord {
     public static void main(String[] args){
